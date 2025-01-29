@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Uptown Funk",
+    "popularity": "High",
+    "genre": "Funk",
+    "duration": 269,
+    "singer": "Mark Ronson",
+    "colab": "Bruno Mars"
+  },
+  {
+    "title": "Despacito",
+    "popularity": "High",
+    "genre": "Reggaeton",
+    "duration": 230,
+    "singer": "Luis Fonsi",
+    "colab": "Daddy Yankee"
+  },
+  {
+    "title": "Senorita",
+    "popularity": "High",
+    "genre": "Pop",
+    "duration": 190,
+    "singer": "Shawn Mendes",
+    "colab": "Camila Cabello"
+  },
+  {
+    "title": "Havana",
+    "popularity": "High",
+    "genre": "Pop",
+    "duration": 217,
+    "singer": "Camila Cabello",
+    "colab": "Young Thug"
+  },
+  {
+    "title": "Shallow",
+    "popularity": "High",
+    "genre": "Pop",
+    "duration": 215,
+    "singer": "Lady Gaga",
+    "colab": "Bradley Cooper"
+  },
+  {
+    "title": "Old Town Road",
+    "popularity": "High",
+    "genre": "Country rap",
+    "duration": 157,
+    "singer": "Lil Nas X",
+    "colab": "Billy Ray Cyrus"
+  },
+  {
+    "title": "Rockstar",
+    "popularity": "High",
+    "genre": "Hip-hop",
+    "duration": 181,
+    "singer": "Post Malone",
+    "colab": "21 Savage"
+  },
+  {
+    "title": "Sunflower",
+    "popularity": "High",
+    "genre": "Hip-hop",
+    "duration": 158,
+    "singer": "Post Malone",
+    "colab": "Swae Lee"
+  },
+  {
+    "title": "The Monster",
+    "popularity": "High",
+    "genre": "Hip-hop",
+    "duration": 244,
+    "singer": "Eminem",
+    "colab": "Rihanna"
+  },
+  {
+    "title": "Savage Love",
+    "popularity": "High",
+    "genre": "Pop",
+    "duration": 171,
+    "singer": "Jason Derulo",
+    "colab": "Jawsh 685"
+  },
+  {
+    "title": "I Know What You Did Last Summer",
+    "popularity": "Medium",
+    "genre": "Pop",
+    "duration": 213,
+    "singer": "Shawn Mendes",
+    "colab": "Camila Cabello"
+  },
+  {
+    "title": "We Don’t Talk Anymore",
+    "popularity": "High",
+    "genre": "Pop",
+    "duration": 203,
+    "singer": "Charlie Puth",
+    "colab": "Selena Gomez"
+  },
+  {
+    "title": "Beautiful Liar",
+    "popularity": "High",
+    "genre": "Pop",
+    "duration": 196,
+    "singer": "Beyoncé",
+    "colab": "Shakira"
+  },
+  {
+    "title": "Let Me Love You",
+    "popularity": "High",
+    "genre": "Electronic",
+    "duration": 204,
+    "singer": "DJ Snake",
+    "colab": "Justin Bieber"
+  },
+  {
+    "title": "Lean On",
+    "popularity": "High",
+    "genre": "Electronic",
+    "duration": 176,
+    "singer": "Major Lazer",
+    "colab": "MØ"
+  },
+  {
+    "title": "Desire",
+    "popularity": "Medium",
+    "genre": "Electronic",
+    "duration": 203,
+    "singer": "Years & Years",
+    "colab": "Tove Lo"
+  },
+  {
+    "title": "Rain on Me",
+    "popularity": "High",
+    "genre": "Pop",
+    "duration": 183,
+    "singer": "Lady Gaga",
+    "colab": "Ariana Grande"
+  },
+  {
+    "title": "Empire State of Mind",
+    "popularity": "High",
+    "genre": "Hip-hop",
+    "duration": 273,
+    "singer": "Jay-Z",
+    "colab": "Alicia Keys"
+  },
+  {
+    "title": "Love the Way You Lie",
+    "popularity": "High",
+    "genre": "Hip-hop",
+    "duration": 263,
+    "singer": "Eminem",
+    "colab": "Rihanna"
+  },
+  {
+    "title": "Work",
+    "popularity": "High",
+    "genre": "Dancehall",
+    "duration": 219,
+    "singer": "Rihanna",
+    "colab": "Drake"
+  }
+]
